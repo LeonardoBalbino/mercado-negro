@@ -24,7 +24,7 @@
         </div>
 
         <div class="card">
-            <img src="../assets/traveco.enc" alt="">
+            <img src="../assets/traveco.jpg" alt="">
 
             <h2>Traveco da massa</h2>
 
